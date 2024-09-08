@@ -228,7 +228,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
-    libOmxVpp \
     libadpcmdec \
     libfastcrc \
     libqcodec2 \
